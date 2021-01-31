@@ -1,0 +1,81 @@
+[
+  {
+    "from": "Japan",
+    "to": "Spain",
+    "departure": "18:00",
+    "arrival": "20:00",
+    "price": "38706"
+  },
+  {
+    "from": "Rome",
+    "to": "New Zealand",
+    "departure": "13:00",
+    "arrival": "21:00",
+    "price": "45302"
+  },
+  {
+    "from": "Iceland",
+    "to": "Mumbai",
+    "departure": "18:00",
+    "arrival": "20:00",
+    "price": "20973"
+  },
+  {
+    "from": "New York",
+    "to": "Beijing",
+    "departure": "18:00",
+    "arrival": "20:00",
+    "price": "25761"
+  },
+  {
+    "from": "Bolerman",
+    "to": "Chennai",
+    "departure": "18:00",
+    "arrival": "20:00",
+    "price": "30740"
+  },
+  {
+    "from": "Mocao",
+    "to": "Poland",
+    "departure": "18:00",
+    "arrival": "20:00",
+    "price": "10545"
+  },
+  {
+    "from": "Scottland",
+    "to": "Amsterdam",
+    "departure": "18:00",
+    "arrival": "20:00",
+    "price": "45262"
+  },
+  {
+    "from": "Paris",
+    "to": "Milan",
+    "departure": "18:00",
+    "arrival": "20:00",
+    "price": "14302"
+  },
+  {
+    "from": "Mesatutes",
+    "to": "Iraq",
+    "departure": "18:00",
+    "arrival": "20:00",
+    "price": "19857"
+  },
+
+  {
+    "from": "Taiwan",
+    "to": "Belgrade",
+    "departure": "18:00",
+    "arrival": "22:00",
+    "price": "42409"
+  },
+  {
+    "from": "Tel aviv",
+    "to": "Moscow",
+    "departure": "11:00",
+    "arrival": "20:00",
+    "price": "33628"
+  }
+
+]
